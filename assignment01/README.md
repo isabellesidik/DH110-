@@ -5,4 +5,4 @@
 
 ### Project Description 
 
-![closeup of stethoscope (screenshot-doctor.png)
+![closeup of stethoscope](screenshot-doctor.png)
